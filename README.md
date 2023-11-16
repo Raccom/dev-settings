@@ -1,9 +1,9 @@
 <samp><b>Raccom's Dev Settings</b></samp>
 
+[`.idea/settings.zip`](./.idea/settings.zip)<br>
 [`.vscode/settings.json`](./.vscode/settings.json)<br>
 [`.vscode/all-settings.code-profile`](./.vscode/all-settings.code-profile)<br>
-[`.idea/settings.zip`](./.idea/settings.zip)<br>
-[`.github/workflows/cicd.yml`](./.github/workflows/cicd.yml)<br>
+[`.vscode/nesting.json`](./.vscode/nesting.json)<br>
 
 <br>
 <br>
