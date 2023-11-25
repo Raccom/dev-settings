@@ -1,4 +1,4 @@
-<samp><b>Raccom's Dev Settings</b></samp>
+<samp><b>Joseph's Dev Settings</b></samp>
 
 [`.idea/settings.zip`](./.idea/settings.zip)<br>
 [`.vscode/settings.json`](./.vscode/settings.json)<br>
